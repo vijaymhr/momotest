@@ -1,4 +1,4 @@
-<footer class="ftco-footer ftco-bg-dark ftco-section">
+<footer class="ftco-footer ftco-bg-dark ftco-section" style="padding-top: 20px; padding-bottom: 20px;">
         <div class="container">
           <div class="row mb-5">
             <div class="col-md-6 col-lg-3">
@@ -7,11 +7,11 @@
                   Kathmandu Mo:Mo
                 </h2>
                  <p><span class="icon-map"></span>
-                  <span class="text">20/96 Oxford Terrace, Christchurch Central City, Christchurch 8011</span></p>
+                  <span class="text">20/96 Oxford Terrace, Christchurch</span></p>
                 <p><span class="icon-phone2"></span>
-                  <span class="text">+ 1235 2355 98</span></p>
+                  <span class="text"> 0210 348 459</span></p>
                 <p><span class="icon-paper-plane"></span>
-                  <span class="text">vijaymaharjan911@gmail.com</span></p>
+                  <span class="text">1@gmail.com</span></p>
 
 
               </div>
@@ -35,13 +35,9 @@
               <div class="ftco-footer-widget mb-4">
                 <h2 class="ftco-heading-2">Our Opening Hours</h2>
                 <ul class="list-unstyled open-hours">
-                  <li class="d-flex"><span>Monday</span><span>9:00 - 17:00</span></li>
-                  <li class="d-flex"><span>Tuesday</span><span>9:00 - 17:00</span></li>
-                  <li class="d-flex"><span>Wednesday</span><span>9:00 - 17:00</span></li>
-                  <li class="d-flex"><span>Thursday</span><span>9:00 - 17:00</span></li>
+                  <li class="d-flex"><span>Monday - Sunday</span><span>9:00 - 17:00</span></li>
                   <li class="d-flex"><span>Friday</span><span>9:00 - 21:00</span></li>
-                  <li class="d-flex"><span>Saturday</span><span>9:00 - 17:00</span></li>
-                  <li class="d-flex"><span>Sunday</span><span> 10:00 - 17:00</span></li>
+                  
                 </ul>
               </div>
             </div>
@@ -52,15 +48,12 @@
             <div class="col-md-6 col-lg-3">
               <div class="ftco-footer-widget mb-4">
                      <h2 class="ftco-heading-2">Like us on Facebook</h2>
-
+          
                       <div class="fb-page"
+               
                             data-href="https://www.facebook.com/kathmandumomonz/?__tn__=kC-R&eid=ARAy1G0lLo7iBtHmBCNdpz9hqkGhu9y2zkp4mAqqo_RlkpOSyshMwHVOtugAr-YrdLilksZvAiNgIAy0&hc_ref=ARQoc5cXlY2EtCMezMhn0pQj_IFvPdBqM4rrdpHh8cUh9teWSbrEvSMYFUJh3-SuPfc&fref=nf" 
-                            data-width=""
-                            data-height=""
-                            data-hide-cover="false"
-                            data-show-facepile="true"
-                            data-adapt-container-width="true">
-              
+                           >
+                    
                       </div>
                     </div>            
                    </div>

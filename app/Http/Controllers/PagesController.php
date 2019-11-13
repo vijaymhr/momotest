@@ -52,5 +52,16 @@ class PagesController extends Controller
             );
             return view ('pages.contact')-> with( $data);        
         }
+
+
+        public function blog()
+        {
+
+            $data=array(
+                'title' => 'This is Services Page',
+                'services' => ['Web Design', 'Programming', 'SEO']
+            );
+            return view ('pages.blog')-> with( $data);        
+        }
     //
 }

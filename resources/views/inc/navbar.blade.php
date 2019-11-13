@@ -17,7 +17,7 @@
 	        	<li class="nav-item"><a href="gallery" class="nav-link">Gallery</a></li>
 	        	<li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
 	        	<li class="nav-item"><a href="contact" class="nav-link">Contact</a></li>
-			  <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+			  <li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
 			  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#loginmodal">
 				Click to Login
 			  </button>

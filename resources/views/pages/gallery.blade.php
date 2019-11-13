@@ -25,37 +25,37 @@
   
     <!-- Grid column -->
     <div class="mb-3 pics animation all 2">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(73).jpg" alt="Card image cap">
+      <img class="img-fluid" src="https://static01.nyt.com/images/2018/11/14/dining/14HUNGRY-slide-TWXA/14HUNGRY-slide-TWXA-jumbo.jpg" alt="Card image cap">
     </div>
     <!-- Grid column -->
   
     <!-- Grid column -->
     <div class="mb-3 pics animation all 1">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain1.jpg" alt="Card image cap">
+      <img class="img-fluid" src="http://d2np4vr8r37sds.cloudfront.net/31457-Kepakchi-REP-Pork-momo-researchingparis.wordpress.jpg" alt="Card image cap">
     </div>
     <!-- Grid column -->
   
     <!-- Grid column -->
     <div class="mb-3 pics animation all 1">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain2.jpg" alt="Card image cap">
+      <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbX7ktVxYn1FpxJncE4oZ-wcxO8zLy9VHXAcnZddi9ceU9pGf&s" alt="Card image cap">
     </div>
     <!-- Grid column -->
   
     <!-- Grid column -->
     <div class="mb-3 pics animation all 2">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
+      <img class="img-fluid" src="https://images1.dallasobserver.com/imager/u/original/11557554/peak_chilimomo_alisonmclean_01.jpg" alt="Card image cap">
     </div>
     <!-- Grid column -->
   
     <!-- Grid column -->
     <div class="mb-3 pics animation all 2">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(18).jpg" alt="Card image cap">
+      <img class="img-fluid" src="https://www.tripsavvy.com/thmb/4heCW6-mOwU6687urIpgwDCXniI=/705x496/filters:no_upscale():max_bytes(150000):strip_icc()/momoiam-5953f91d3df78c1d429b1d85.jpg" alt="Card image cap">
     </div>
     <!-- Grid column -->
   
     <!-- Grid column -->
     <div class="mb-3 pics animation all 1">
-      <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain3.jpg" alt="Card image cap">
+      <img class="img-fluid" src="https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/noo5hybllorl3hycvxqr" alt="Card image cap">
     </div>
     <!-- Grid column -->
   

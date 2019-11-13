@@ -41,7 +41,7 @@
                   <li class="d-flex"><span>Thursday</span><span>9:00 - 17:00</span></li>
                   <li class="d-flex"><span>Friday</span><span>9:00 - 21:00</span></li>
                   <li class="d-flex"><span>Saturday</span><span>9:00 - 17:00</span></li>
-                  <li class="d-flex"><span>Sunday</span><span> 9:00 - 17:00</span></li>
+                  <li class="d-flex"><span>Sunday</span><span> 10:00 - 17:00</span></li>
                 </ul>
               </div>
             </div>

@@ -51,7 +51,7 @@
                               </div>
                               <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                                 <div class="menus d-sm-flex ftco-animate align-items-stretch">
-                              <div class="menu-img img" style="background-image: url(https://img.taste.com.au/mdKxKxoR/taste/2016/11/chicken-momos-with-tomato-achar-46671-1.jpeg);"></div>
+                              <div class="menu-img img" style="background-image: url(https://cdn.pastemagazine.com/www/articles/Momos%20-%20Photo%20Credit%20-%20Sabrina%20Toppa.jpg);"></div>
                               <div class="text d-flex align-items-center">
                                                 <div>
                                       <div class="d-flex">
@@ -71,7 +71,7 @@
 
                               <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                                   <div class="menus d-sm-flex ftco-animate align-items-stretch">
-                                <div class="menu-img img order-md-last" style="background-image: url(https://img.taste.com.au/mdKxKxoR/taste/2016/11/chicken-momos-with-tomato-achar-46671-1.jpeg);"></div>
+                                <div class="menu-img img order-md-last" style="background-image: url(https://theweekendedition.com.au/wp-content/uploads/sites/6/2019/09/TWE-kathmandu-momo-house-01-1100x550-c-center.jpg);"></div>
                                 <div class="text d-flex align-items-center">
                                                   <div>
                                         <div class="d-flex">
@@ -90,7 +90,7 @@
                               </div>
                               <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                                   <div class="menus d-sm-flex ftco-animate align-items-stretch">
-                                <div class="menu-img img order-md-last" style="background-image: url(https://img.taste.com.au/mdKxKxoR/taste/2016/11/chicken-momos-with-tomato-achar-46671-1.jpeg);"></div>
+                                <div class="menu-img img order-md-last" style="background-image: url(https://i0.wp.com/www.funloveandcooking.com/wp-content/uploads/2015/08/Pan-Fried-Chicken-Dumplings-Momo-funloveandcooking.com_.jpg?resize=680%2C1019);"></div>
                                 <div class="text d-flex align-items-center">
                                                   <div>
                                         <div class="d-flex">
@@ -122,34 +122,6 @@
   </section>
 
 
-  <hr>
-
   
-  <section class="ftco-section ftco-wrap-about">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-7 d-flex">
-          <div class="img img-1 mr-md-2" style="background-image: url(https://images.squarespace-cdn.com/content/v1/59b8b832bce176c4a1fa56e6/1569542294405-UI0Z7RSDZHD04KI2LUNV/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/kathmandumomo.jpg?format=1000w);"></div>
-          
-        </div>
-        <div class="col-md-5 wrap-about pt-5 pt-md-5 pb-md-3 ftco-animate fadeInUp ftco-animated">
-          <div class="heading-section mb-4 my-5 my-md-0">
-          
-            <h2 class="mb-4">Kathmandu MO:MO</h2>
-          </div>
-            <p>Momos are an integral part of nepali way of life.  </p>
-            <p> Bikash and Sagar bring the authentic taste of Kathmandu to Riverside, handcrafting plump steamed dumplings filled with a juicy mix of fresh meat, vegetables and a tasty thick sauce. Before long, you won’t be able to help but enjoy them for breakfast, lunch and dinner too. </p>
-          <pc class="time">
-            
-          <p></p>
-        </pc></div>
-      </div>
-    </div>
-  </section>
-
-
-
-
-
 
 @endsection

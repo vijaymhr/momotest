@@ -35,7 +35,7 @@
               <div class="ftco-footer-widget mb-4">
                 <h2 class="ftco-heading-2">Our Opening Hours</h2>
                 <ul class="list-unstyled open-hours">
-                  <li class="d-flex"><span>Monday</span><span>9:00 - 17:00</span></li>
+                  <li class="d-flex"><span>MONDAY</span><span>9:00 - 17:00</span></li>
                   <li class="d-flex"><span>Tuesday</span><span>9:00 - 17:00</span></li>
                   <li class="d-flex"><span>Wednesday</span><span>9:00 - 17:00</span></li>
                   <li class="d-flex"><span>Thursday</span><span>9:00 - 17:00</span></li>

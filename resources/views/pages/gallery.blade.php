@@ -15,103 +15,112 @@
   </section>
 
 
+<br>
+<br>
+<br>
 
-<div style="margin-top:20px">
-<!-- Grid row -->
-  <!-- Grid row -->
-  
-  <!-- Grid row -->
-  <div class="gallery" id="gallery">
-  
-    <!-- Grid column -->
-    <div class="mb-3 pics animation all 2">
-      <img class="img-fluid" src="https://static01.nyt.com/images/2018/11/14/dining/14HUNGRY-slide-TWXA/14HUNGRY-slide-TWXA-jumbo.jpg" alt="Card image cap">
-    </div>
-    <!-- Grid column -->
-  
-    <!-- Grid column -->
-    <div class="mb-3 pics animation all 1">
-      <img class="img-fluid" src="http://d2np4vr8r37sds.cloudfront.net/31457-Kepakchi-REP-Pork-momo-researchingparis.wordpress.jpg" alt="Card image cap">
-    </div>
-    <!-- Grid column -->
-  
-    <!-- Grid column -->
-    <div class="mb-3 pics animation all 1">
-      <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbX7ktVxYn1FpxJncE4oZ-wcxO8zLy9VHXAcnZddi9ceU9pGf&s" alt="Card image cap">
-    </div>
-    <!-- Grid column -->
-  
-    <!-- Grid column -->
-    <div class="mb-3 pics animation all 2">
-      <img class="img-fluid" src="https://images1.dallasobserver.com/imager/u/original/11557554/peak_chilimomo_alisonmclean_01.jpg" alt="Card image cap">
-    </div>
-    <!-- Grid column -->
-  
-    <!-- Grid column -->
-    <div class="mb-3 pics animation all 2">
-      <img class="img-fluid" src="https://www.tripsavvy.com/thmb/4heCW6-mOwU6687urIpgwDCXniI=/705x496/filters:no_upscale():max_bytes(150000):strip_icc()/momoiam-5953f91d3df78c1d429b1d85.jpg" alt="Card image cap">
-    </div>
-    <!-- Grid column -->
-  
-    <!-- Grid column -->
-    <div class="mb-3 pics animation all 1">
-      <img class="img-fluid" src="https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/noo5hybllorl3hycvxqr" alt="Card image cap">
-    </div>
-    <!-- Grid column -->
-  
-  </div>
-  <!-- Grid row -->
-
-
-<style> .gallery {
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-count: 3;
-    -webkit-column-width: 33%;
-    -moz-column-width: 33%;
-    column-width: 33%; }
-    .gallery .pics {
-    -webkit-transition: all 350ms ease;
-    transition: all 350ms ease; }
-    .gallery .animation {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1); }
-    
-    @media (max-width: 450px) {
-    .gallery {
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    column-count: 1;
-    -webkit-column-width: 100%;
-    -moz-column-width: 100%;
-    column-width: 100%;
-    }
-    }
-    
-    @media (max-width: 400px) {
-    .btn.filter {
-    padding-left: 1.1rem;
-    padding-right: 1.1rem;
-    }
-    }
-    </style>
  
-<script>
-    $(function() {
-var selectedClass = "";
-$(".filter").click(function(){
-selectedClass = $(this).attr("data-rel");
-$("#gallery").fadeTo(100, 0.1);
-$("#gallery div").not("."+selectedClass).fadeOut().removeClass('animation');
-setTimeout(function() {
-$("."+selectedClass).fadeIn().addClass('animation');
-$("#gallery").fadeTo(300, 1);
-}, 300);
-});
-});
-</script>
+
+
+<div class="container">
+<div class="row">
+<div class="row">
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail foodimg" href="#" data-image-id="" data-toggle="modal" data-title="Breakfast"
+               data-image="{{ asset('images/breakfast-3.jpg') }}"
+               data-target="#image-gallery">
+                <img class="img-thumbnail"
+                     src="{{ asset('images/breakfast-3.jpg') }}"
+                     alt="Another alt text">
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Breakfast"
+               data-image="{{ asset('images/breakfast-4.jpg') }}"
+               data-target="#image-gallery">
+                <img class="img-thumbnail"
+                     src="{{ asset('images/breakfast-4.jpg') }}"
+                     alt="Another alt text">
+            </a>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Drinks"
+               data-image="{{ asset('images/drink-3.jpg') }}"
+               data-target="#image-gallery">
+                <img class="img-thumbnail"
+                     src="{{ asset('images/drink-3.jpg') }}"
+                     alt="Another alt text">
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Lunch"
+               data-image="{{ asset('images/lunch-3.jpg') }}"
+               data-target="#image-gallery">
+                <img class="img-thumbnail"
+                     src="{{ asset('images/lunch-3.jpg') }}"
+                     alt="Another alt text">
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Lunch"
+               data-image="{{ asset('images/lunch-6.jpg') }}"
+               data-target="#image-gallery">
+                <img class="img-thumbnail"
+                     src="{{ asset('images/lunch-6.jpg') }}"
+                     alt="Another alt text">
+            </a>
+        </div>
+
+
+
+        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Laminate"
+               data-image="{{ asset('images/drink-5.jpg') }}"
+               data-target="#image-gallery">
+                <img class="img-thumbnail"
+                     src="{{ asset('images/drink-5.jpg') }}"
+                     alt="Another alt text">
+            </a>
+        </div>
+     
+
+
+
+     
+  
+  
+    </div>
+
+
+    <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="image-gallery-title"></h4>
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img id="image-gallery-image" class="img-responsive col-md-12" src="">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary float-left" id="show-previous-image"><i class="fa fa-arrow-left"></i>
+                    </button>
+
+                    <button type="button" id="show-next-image" class="btn btn-secondary float-right"><i class="fa fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+</div>
+
+
+  <br>
+  <br>
+  <br>
 
 
 @endsection

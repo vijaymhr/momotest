@@ -18,10 +18,12 @@
         <link rel="stylesheet" href="{{asset('css/icomoon.css')}}">
         <link rel="stylesheet" href="{{asset('css/style.css')}}">
         <link rel="stylesheet" href="{{asset('css/login.css')}}">
+        <link rel="stylesheet" href="{{asset('css/imggal.css')}}">
 
 
 
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
 
 
@@ -90,10 +92,9 @@
 
     <script src="{{ asset('js/google-map.js') }}"></script>
     <script src="{{ asset('js/main.js') }}"></script>
+    <script src="{{ asset('js/imgjs.js') }}"></script>
 
   
 
-  
-
-
+ 
 </html>

@@ -75,7 +75,7 @@
 					<div class="col-md-5 wrap-about pt-5 pt-md-5 pb-md-3 ftco-animate fadeInUp ftco-animated">
 	          <div class="heading-section mb-4 my-5 my-md-0">
 	          
-	            <h2 class="mb-4">Kathmandu MO:MO</h2>
+	            <h2 class="mb-4">Kathmandu MO:MO 1</h2>
 	          </div>
               <p>Momos are an integral part of nepali way of life.  </p>
               <p> Bikash and Sagar bring the authentic taste of Kathmandu to Riverside, handcrafting plump steamed dumplings filled with a juicy mix of fresh meat, vegetables and a tasty thick sauce. Before long, you won’t be able to help but enjoy them for breakfast, lunch and dinner too. </p>
